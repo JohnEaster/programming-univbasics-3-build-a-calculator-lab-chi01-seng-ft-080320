@@ -23,7 +23,7 @@ def square_root(num)
 end
 
 addition(3, 4)
-subtraction (17, 5)
+# subtraction (17, 5)
 division(17, 5)
 division(52, 13)
 multiplication(5, 6)
